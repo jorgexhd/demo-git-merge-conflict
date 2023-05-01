@@ -1,8 +1,8 @@
-hola mundo
+hola mundo de piruleta
 adios venus
 
 linea1
 linea2
 
-lineaZ
+linea1
 lineaY
